@@ -1,12 +1,14 @@
 <!-- HEADER -->
+<div align = center>
 
 ![커버](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=코딩은%20재밌다!&animation=twinkling&fontSize=50)
+</div>
 
 <div align="center">
 <!--방문자수 위젯-->
 
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHajinseok11&edge_flat=false&title=hits)
 ### 👋 안녕하세요! 자바 기반 🧑‍💻 `풀스택 개발자` 하진석입니다.
-
 </div>
 
 * 저는 `풀스택`을 준비하고 있는 하진석입니다.
