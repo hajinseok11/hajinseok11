@@ -16,7 +16,7 @@
 
 
 <!-- Body-->
-<div align = ccenter>
+<div align = center>
 
 ### 💻 My Tech Stack
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
