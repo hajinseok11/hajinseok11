@@ -16,7 +16,7 @@
 
 
 <!-- Body-->
-### 💻 My Tech Stack
+<div text-align:center>### 💻 My Tech Stack
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-000000.svg?&style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
@@ -34,7 +34,7 @@
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-
+</div>
 
 
 
