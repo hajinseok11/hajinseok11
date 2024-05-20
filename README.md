@@ -1,14 +1,14 @@
 <!-- HEADER -->
 <div align = center>
 
-![커버](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=코딩은%20재밌다!&animation=twinkling&fontSize=50)
+![커버](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20Jinseok&animation=twinkling&fontSize=50)
 </div>
 
 <div align="center">
 <!--방문자수 위젯-->
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHajinseok11&edge_flat=false&title=hits)
-### 👋 안녕하세요! 자바 기반 🧑‍💻 `풀스택 개발자` 하진석입니다.
+### 👋 안녕하세요! 자바 기반 🧑‍💻 `백엔드 개발자` 하진석입니다.
 </div>
 
 * 저는 `풀스택`을 준비하고 있는 하진석입니다.
@@ -18,7 +18,7 @@
 
 
 <!-- Body-->
-<div align = center>
+<!--<div align = center>-->
 
 ### 💻 My Tech Stack
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
@@ -31,18 +31,30 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 </div>
 
-<div align = center>
+<!--<div align = center>-->
 
 ### 🖊️ My Tool Stack
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)<br>
+![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+
+</div>
+<div>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajinseok11&layout=compact)
+
 </div>
 
+
+
+<!--### Skills
+**Langs and Frameworks**
+
+**Infra and Tools**-->
 
 
 
